@@ -1,6 +1,6 @@
 {
   "name": "promise-mmmagic",
-  "version": "0.0.2",
+  "version": "0.1.0",
   "description": "Promise support for mmmagic",
   "main": "src/index.js",
   "scripts": {
@@ -27,7 +27,7 @@
   "homepage": "https://github.com/enniel/promise-mmmagic",
   "dependencies": {
     "harmony-reflect": "^1.5.1",
-    "mmmagic": "^0.4.5"
+    "mmmagic": "^0.5.3"
   },
   "devDependencies": {
     "chai": "^3.5.0",
